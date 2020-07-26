@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Shot Dice</string>
+    <string name="roll_label">Крутануть!</string>
 </resources>
